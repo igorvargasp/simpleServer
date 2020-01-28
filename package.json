@@ -1,0 +1,22 @@
+{
+  "name": "valsis",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.html",
+  "scripts": {
+    "dev": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewerbe/valsis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewerbe/valsis/issues"
+  },
+  "homepage": "https://github.com/ewerbe/valsis#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
